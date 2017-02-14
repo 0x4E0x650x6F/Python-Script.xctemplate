@@ -18,4 +18,4 @@ git clone git@github.com:0x4E0x650x6F/Python-Script.xctemplate.git
 ```
 
 If your intereted in a python project template, checkout.  
-git clone git@github.com:0x4E0x650x6F/Python.xctemplate.git
+https://github.com/0x4E0x650x6F/Python.xctemplate
